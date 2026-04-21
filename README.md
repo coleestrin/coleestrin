@@ -1,3 +1,3 @@
 # hi, i'm cole 👋
 
-→ [coleestrin.io](https://coleestrin.io)
+→ <a href="https://coleestrin.io" target="_blank">coleestrin.io</a>
